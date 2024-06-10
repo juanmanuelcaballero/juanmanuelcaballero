@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+}
+
+#prota{
+    display: inline-block;
+    background-color: blue;
+    min-width: 100px;
+    min-height: 100px;
+    position: absolute;
+    top:800px;
+    left: 0px;
+}
+
+#enemigo1{
+    display: inline-block;
+    background-color: red;
+    min-width: 100px;
+    min-height: 100px;
+    position: absolute;
+    top:800px;
+    left: 500px;
+}
+#enemigo2{
+    display: inline-block;
+    background-color: red;
+    min-width: 100px;
+    min-height: 100px;
+    position: absolute;
+    top:800px;
+    left: 1000px;
+}
+#enemigo3{
+    display: inline-block; 
+    background-color: red;
+    min-width: 100px;
+    min-height: 100px;
+    position: absolute;
+    top:800px;
+    left: 1500px;
+}
